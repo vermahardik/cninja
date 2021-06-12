@@ -24,4 +24,3 @@ int sized=sizeof(xyz);
 
 cout << size << endl << sizec  << endl << sized  << endl;
 }
-
